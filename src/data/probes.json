@@ -124,5 +124,11 @@
     "latitude": 35.652832,
     "longitude": 139.839478,
     "name": "Tokyo"
+  },
+  {
+    "key": "copenhagen",
+    "latitude": 55.676097,
+    "longitude": 12.568337,
+    "name": "Copenhagen"
   }
 ]
